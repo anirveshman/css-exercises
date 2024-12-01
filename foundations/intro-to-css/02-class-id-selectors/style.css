@@ -1,0 +1,15 @@
+.class_odd {
+    background-color: rgba(255,0,0,0.4);
+    font: "Verdana", "DejaVu Sans", "sans-serif";
+}
+#id_1 {
+    color: rgb(0,0,255);
+}
+.class_2 {
+    font-size: 24px;
+}
+#id_2 {
+    background-color: rgba(0,255,0,0.4);
+    font-size: 24px;
+    font-weight: 700;
+}
